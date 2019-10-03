@@ -1,6 +1,6 @@
 <?php 
 
-clas Coba {
+class Coba {
 	// public $a; // property
 
 	// // method
